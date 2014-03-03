@@ -22,7 +22,7 @@ define([
 		].join(''),
 
 		events: {
-			'click #nav-dash': 'onNavDash',
+			'click #nav-dash': 'onNavDash',  
 			'click #nav-about': 'onNavAbout'
 		},
 
